@@ -46,4 +46,7 @@ For answers to common questions about this code of conduct, see [https://www.con
 
 ---
 
-<p align="center">Copyright © 2023 <b>SERVER-X-101</b>. All rights reserved. <br/> Please refer to the LICENSE file in this repository for more information on the terms of use and distribution.</p>
+<p align="center">
+  Copyright © 2023 <b><a href="https://github.com/SERVER-X-101">SERVER-X-101</a></b>. All rights reserved. <br/>
+</p>
+
