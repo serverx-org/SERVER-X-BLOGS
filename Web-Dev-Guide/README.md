@@ -117,7 +117,6 @@ Please see [**CONTRIBUTING**](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blo
 - [Glitch](https://glitch.com/)
 - [Fleek](https://fleek.co/)
 - [ByetHost](https://byet.host/)
-
 - [Strikingly](https://www.strikingly.com/)
 - [WordPress](https://www.wordpress.com/)
 - [Weebly](https://www.weebly.com/)
