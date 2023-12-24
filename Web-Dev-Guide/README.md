@@ -1,12 +1,12 @@
-# [Ultimate-Web-Development-Resources](https://dhanushnehru.github.io/Ultimate-Web-Development-Resources)
+# [Ultimate-Web-Development-Resources](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide)
 
 A collection of Web Developement Resources at one place
 
-![Ultimate-Web-Development-Resources by Dhanush N](https://raw.githubusercontent.com/DhanushNehru/Ultimate-Web-Development-Resources/main/cover.png)
+![Ultimate-Web-Development-Resources by Dhanush N](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blob/main/Web-Dev-Guide/cover.png)
 
 ## Contributing
 
-Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/blob/main/CONTRIBUTING.md), [CODE-OF-CONDUCT](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/blob/main/CODE-OF-CONDUCT.md) for details before you contribute. 
+Please see [**CONTRIBUTING**](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blob/main/Web-Dev-Guide/CONTRIBUTING.md), [**CODE-OF-CONDUCT**](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blob/main/Web-Dev-Guide/CODE-OF-CONDUCT.md) for details before you contribute. 
 
 ## Table of Contents
 
