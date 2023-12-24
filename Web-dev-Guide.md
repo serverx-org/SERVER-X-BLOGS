@@ -10,8 +10,8 @@ Please see [**CONTRIBUTING**](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blo
 
 ## Table of Contents
 
-- [Web-Development-Guide](#web-development-guide)
-  - [Contributing](#contributing)
+- [Web-Development-Guide](##web-development-guide)
+  - [Contributing](##contributing)
   - [Table of Contents](#table-of-contents)
   - [Web Development Roadmaps](##Web-Development-Roadmaps)
   - [Web design softwares](#web-design-softwares)
@@ -23,7 +23,7 @@ Please see [**CONTRIBUTING**](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blo
   - [Web Color Palettes](#web-color-palettes)
   - [Chrome Extensions For Web Developers](#chrome-extensions-for-web-developers)
   - [Chart Visualizations](#chart-visualizations)
-  - [Web Illustrations](#web-illustrations)
+  - [Web Illustrations](##web-illustrations)
   - [Web fonts](#web-fonts)
   - [Website Optimization Tools](#website-optimization-tools)
   - [Interview Preparation](#interview-preparation)
@@ -584,23 +584,3 @@ Please note that the links provided are the GitHub repository URLs for each proj
   Copyright © 2023 <b><a href="https://github.com/SERVER-X-101">SERVER-X-101</a></b>. All rights reserved. <br/>
 </p>
 
-
-# Table of Contents
-
-1. [Topic 1](#topic-1)
-2. [Topic 2](#topic-2)
-3. [Topic 3](#topic-3)
-
-# Web Development Guide
-
-## Topic 1
-- abc
-- ajb
-
-## Topic 2
-- djdj
-- fjrf
-
-## Topic 3
-- for
-- djrjr
