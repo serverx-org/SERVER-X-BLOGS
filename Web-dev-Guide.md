@@ -1,8 +1,8 @@
-# [Ultimate-Web-Development-Resources](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide)
+# [Web-Development-Guide](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide)
 
 A collection of Web Developement Resources at one place
 
-![Ultimate-Web-Development-Resources by Dhanush N](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blob/main/Web-Dev-Guide/cover.png)
+![Web-Development-Guide by SERVER-X-101](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blob/main/Web-Dev-Guide/cover.png)
 
 ## Contributing
 
@@ -10,7 +10,7 @@ Please see [**CONTRIBUTING**](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blo
 
 ## Table of Contents
 
-- [Ultimate-Web-Development-Resources](#ultimate-web-development-resources)
+- [Web-Development-Guide](#web-development-guide)
   - [Contributing](#contributing)
   - [Table of Contents](#table-of-contents)
   - [Web Development Roadmaps](#web-development-roadmaps)
@@ -51,8 +51,6 @@ Please see [**CONTRIBUTING**](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blo
   - [Top JavaScript Frameworks Backend](#top-javascript-frameworks-backend)
   - [List Of Projects](#list-of-projects)
   - [Web For Testing and Check The Security Score](#web-for-testing-and-check-the-security-score)
-  - [License](#license)
-  - [Tutorial in Other Languages](#tutorial-in-other-languages)
 
 ## Web Development Roadmaps
 
@@ -557,7 +555,7 @@ More information about the pack can be found here [Github Student Developer Pack
 |      |      |      |      |
 |------|------|------|------|
 | [3D Portfolio](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/3D-Portfolio) | [3D](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/3D)  |  [Blog Website ](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Blog-Website) | [Bloggers Website ](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Blogger-Website-main/blogers%20%20website) |
-| [Bootstrap Portfolio](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Bootstrap%20Portfolio) | [Calculator](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/calculator) | [Catch Me Card Game](https://github.com/Tanmay-Giram/Ultimate-Web-Development-Resources/tree/adding-Catch-Me-Card-Game/Catch%20Me%20Card%20Edition) | | [Chess](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Chess) | [City Finder](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/City%20Finder) |
+| [Bootstrap Portfolio](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Bootstrap%20Portfolio) | [Calculator](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/calculator) | [Catch Me Card Game](https://github.com/Tanmay-Giram/Web-Development-Guide/tree/adding-Catch-Me-Card-Game/Catch%20Me%20Card%20Edition) | | [Chess](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Chess) | [City Finder](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/City%20Finder) |
 | [3D Portfolio](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/3D-Portfolio) | [3D](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/3D) |  [ ASCII VALUE GENERATOR ](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/ascii-value-generator) |  [Blog Website ](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Blog-Website) | [Bloggers Website ](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Blogger-Website-main/blogers%20%20website) |
 | [Bootstrap Portfolio](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Bootstrap%20Portfolio) | [Calculator](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/calculator) | [Chess](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Chess) | [City Finder](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/City%20Finder) |
 | [Clock Project](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/ClockProject) | [Disney Character Game](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/disney-character-game) | [Drum Kit](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/DRUM-KIT) | [Dice Challenge](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Dice-Challenge) |
@@ -569,8 +567,8 @@ More information about the pack can be found here [Github Student Developer Pack
 | [QR Code Generator](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Qr_Code_Generator) | [Quiz](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Quiz) | [Random Background Generator](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Random-Background-Generator) | [Recipe Finder](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Recipe-Finder) | 
 | [Scannable QR Code Generator](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Scannable%20QR%20CODE%20Generator) | [Stone Paper Scissor Game](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/StonePaperScissor-Game) |[Table Tennis Scorekeeper](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Table%20Tennis%20scorekeeper) | [Task Management App](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/task-management-app) | [Temperature Convertor](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/tempreture-converter) | 
 | [Tic Tac Toe](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/TicTacToe%20Game) | [To Do List](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/to-do-list) | [Typing Progress Bar](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Typing%20Progress%20Bar) | [Weather App](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/WeatherApp) | 
-| [Wix Template](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/WixTemplate) | [URL Shortner](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/url-shortner) | [Aim Training](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Aim-training) | [Flappy Bird Game](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Flappy_Bird_Game)  | [Desktop Notification](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Desktop%20Notification) | [Linear_gradient_background](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Linear_gradient_background) | [Tic Tac Toe Game](https://github.com/DevanshKyada27/Ultimate-Web-Development-Resources/tree/TicTacToe-Game/TicTacToeGame)
-| [Joke Generator](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/JokeGenerator) | [Rock-Paper-Scissor-Game-V2](https://github.com/Shreyasb1015/Ultimate-Web-Development-Resources/tree/new_branch/rock-paper-scissor-game-V2) | [Book Cricket Game](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Book-cricket-game) | [ Voice-Recorder ](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Voice-Recorder)
+| [Wix Template](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/WixTemplate) | [URL Shortner](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/url-shortner) | [Aim Training](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Aim-training) | [Flappy Bird Game](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Flappy_Bird_Game)  | [Desktop Notification](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Desktop%20Notification) | [Linear_gradient_background](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Linear_gradient_background) | [Tic Tac Toe Game](https://github.com/DevanshKyada27/Web-Development-Guide/tree/TicTacToe-Game/TicTacToeGame)
+| [Joke Generator](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/JokeGenerator) | [Rock-Paper-Scissor-Game-V2](https://github.com/Shreyasb1015/Web-Development-Guide/tree/new_branch/rock-paper-scissor-game-V2) | [Book Cricket Game](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Book-cricket-game) | [ Voice-Recorder ](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Voice-Recorder)
 
 
 Please note that the links provided are the GitHub repository URLs for each project.
@@ -582,21 +580,6 @@ Please note that the links provided are the GitHub repository URLs for each proj
 - [HackerTarget](https://hackertarget.com/vulnerability-scanner/)
 - [Qualys SSL Labs](https://www.ssllabs.com/ssltest/)
 
-## License
-This project is licensed under the CC0 1.0 Universal - see the [LICENSE](./LICENSE) file for details.
-
-## Tutorial in Other Languages
-
-- [Indonesian](./lang/indonesian.md)
-
-Hey, I'm Dhanush N. You can connect with me and follow my work via [X / (Twitter)](https://twitter.com/Dhanush_Nehru) / [Instagram](https://www.instagram.com/dhanush_nehru/) / [Youtube](https://www.youtube.com/@dhanushnehru?sub_confirmation=1)
-
-Searching for a job? This may help you
-[Ultimate Tech Job List](https://github.com/DhanushNehru/Ultimate-Tech-Jobs)
-
-Want to start learning Node Js? Don't miss to check this out
-[Ultimate NodeJs Resources](https://github.com/DhanushNehru/Ultimate-NodeJs-Resources)
-
-If you liked this repository support it by starring ⭐
-
-Thank You for being here :)
+<p align="center">
+  Copyright © 2023 <b><a href="https://github.com/SERVER-X-101">SERVER-X-101</a></b>. All rights reserved. <br/>
+</p>
