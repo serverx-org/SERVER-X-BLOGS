@@ -6,24 +6,24 @@ A collection of Web Developement Resources at one place
 
 ## Contributing
 
-Please see [**CONTRIBUTING**](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blob/main/Web-Dev-Guide/CONTRIBUTING.md), [**CODE-OF-CONDUCT**](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blob/main/Web-Dev-Guide/CODE-OF-CONDUCT.md) for details before you contribute. 
+Please see [**CONTRIBUTING**](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blob/main/Web-Dev-Guide/CONTRIBUTING.md), [**CODE-OF-CONDUCT**](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blob/main/Web-Dev-Guide/CODE-OF-CONDUCT.md) for details before you contribute.
 
 ## Table of Contents
 
 - [Web-Development-Guide](#web-development-guide)
   - [Contributing](#contributing)
   - [Table of Contents](#table-of-contents)
-  - [Web Development Roadmaps](##Web-Development-Roadmaps)
+  - [Web Development Roadmaps](#web-development-roadmaps)
   - [Web design softwares](#web-design-softwares)
   - [Prototyping tools for UI/UX](#prototyping-tools-for-uiux)
   - [Free Hosting](#free-hosting)
-  - [Websites to learn](#Websites-to-learn)
+  - [Websites to learn](#websites-to-learn)
   - [Websites for code challenges](#websites-for-code-challenges)
   - [Web Images or Photos](#web-images-or-photos)
   - [Web Color Palettes](#web-color-palettes)
   - [Chrome Extensions For Web Developers](#chrome-extensions-for-web-developers)
   - [Chart Visualizations](#chart-visualizations)
-  - [Web Illustrations](##web-illustrations)
+  - [Web Illustrations](#web-illustrations)
   - [Web fonts](#web-fonts)
   - [Website Optimization Tools](#website-optimization-tools)
   - [Interview Preparation](#interview-preparation)
@@ -40,9 +40,6 @@ Please see [**CONTRIBUTING**](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blo
   - [Animations and Graphics](#animations-and-graphics)
   - [Awesome CSS generators](#awesome-css-generators)
   - [Free YouTube resources](#free-youtube-resources)
-  - [HTML Learning Resources](#html-learning-resources-1)
-  - [CSS Learning Resources](#css-learning-resources-1)
-  - [JS Learning Resources](#js-learning-resources-1)
   - [Code Playgrounds](#code-playgrounds)
   - [Top React Component Libraries](#top-react-component-libraries)
   - [Top JavaScript Libraries](#top-javascript-libraries)
@@ -74,7 +71,6 @@ Please see [**CONTRIBUTING**](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blo
 - [Origami](https://origami.design/)
 - [FluidUI](https://www.fluidui.com/)
 - [Vectr](https://vectr.com/)
-
 
 ## Prototyping tools for UI/UX
 
@@ -129,9 +125,6 @@ Please see [**CONTRIBUTING**](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blo
 - [Freehostia](https://www.freehostia.com/)
 - [000webhost.com](https://www.000webhost.com/)
 
-
-
-
 ## Websites to learn
 
 - [Freecodecamp](http://freecodecamp.org)
@@ -160,7 +153,7 @@ Please see [**CONTRIBUTING**](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blo
 - [CodePen](https://codepen.com/)
 - [Stack Overflow](https://stackoverflow.com/)
 - [Tutorialspoint](https://tutorialspoint.com/)
-- 
+-
 
 ## Websites for code challenges
 
@@ -330,8 +323,8 @@ Please see [**CONTRIBUTING**](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blo
 - [GNU Wget](https://www.gnu.org/software/wget/)
 - [WebCopy by Cyotek](https://www.cyotek.com/cyotek-webcopy)
 
-
 ## HTML Learning Resources
+
 - [Learn HTML – Full Tutorial for Beginners(Freecodecamp)](https://www.youtube.com/watch?v=kUMe1FH4CHE)
 - [Learn HTML - Codecademy](https://join.codecademy.com/learn/learn-html/)
 - [HTML Tutorial - W3schools](https://www.w3schools.com/html/)
@@ -343,8 +336,8 @@ Please see [**CONTRIBUTING**](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blo
 - [HTML: HyperText Markup Language](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [HTML Full Course For Beginners - Brocode](https://www.youtube.com/watch?v=HGTJBPNC-Gw)
 
-
 ## CSS Learning Resources
+
 - [Learn CSS - web.dev](https://web.dev/learn/css/)
 - [Learn CSS - Codecademy](https://www.codecademy.com/learn/learn-css)
 - [CSS Tutorial - W3schools](https://www.w3schools.com/css/)
@@ -352,8 +345,11 @@ Please see [**CONTRIBUTING**](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blo
 - [CSS tips and tricks - Kevin Powell](https://www.youtube.com/kepowob)
 - [Introduction to CSS - Web Dev Simplified](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9D0J0Mtp6lIiD_8046k3si)
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [CSS: Cascading Style Sheets - Mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [CSS-Tricks](https://css-tricks.com)
 
 ## JS Learning Resources
+
 - [Learn JavaScript - Full Course for Beginners (YouTube - FreeCodeCamp)](https://www.youtube.com/watch?v=PkZNo7MFNFg)
 - [JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour (YouTube - Programming With Mosh)](https://www.youtube.com/watch?v=W6NZfCO5SIk)
 - [JavaScript Programming - Full Course (YouTube - FreeCodeCamp)](https://www.youtube.com/watch?v=jS4aFq5-91M)
@@ -362,13 +358,13 @@ Please see [**CONTRIBUTING**](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blo
 - [Learn JavaScript: Free JS Courses for Beginners (FreeCodeCamp - Documentation)](https://www.freecodecamp.org/news/learn-javascript-free-js-courses-for-beginners/)
 - [Chai aur Javascript / (Chai aur Code)](https://www.youtube.com/playlist?list=PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37)
 
-
 ## Let's pick a framework/library for you
+
 - [React-Tutorial](https://www.youtube.com/watch?v=bMknfKXIFA8)
 - [React-Docs](https://reactjs.org/)
 - [Vue JS-Tutorial](https://www.youtube.com/watch?v=FXpIoQ_rT_c)
 - [Vue JS-Docs](https://vuejs.org/tutorial/#step-1)
-- [Angular-Tutorial](https://www.youtube.com/watch?v=k5E2AVpwsko) 
+- [Angular-Tutorial](https://www.youtube.com/watch?v=k5E2AVpwsko)
 - [Angular-Docs](https://angular.io/docs)
 - [NextJS-Tutorial](https://www.youtube.com/watch?v=ETV17M4SauU)
 - [NextJS-Docs](https://nextjs.org/docs)
@@ -379,7 +375,6 @@ Please see [**CONTRIBUTING**](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blo
 - [HeyLink](https://heylink.me/)
 - [BioLink](https://bio.link/)
 - [BioDrop](https://www.biodrop.io/)
-
 
 ## Github Student Developer Pack Resources
 
@@ -461,33 +456,6 @@ More information about the pack can be found here [Github Student Developer Pack
 - [Sonny Sangha](https://www.youtube.com/@SonnySangha)
 - [Sheryians Coding School](https://www.youtube.com/@thesheryianscodingschool)
 
-## HTML Learning Resources
-- [Learn HTML – Full Tutorial for Beginners(Freecodecamp)](https://www.youtube.com/watch?v=kUMe1FH4CHE)
-- [Learn HTML - Codecademy](https://join.codecademy.com/learn/learn-html/)
-- [HTML Tutorial - W3schools](https://www.w3schools.com/html/)
-- [HTML Tutorial - Tutorialspoint](https://www.tutorialspoint.com/html/index.htm)
-- [HTML Full Course - Build a Website Tutorial(Freecodecamp)](https://www.youtube.com/watch?v=pQN-pnXPaVg)
-- [HTML Crash Course For Absolute Beginners - Traversy Media](https://www.youtube.com/watch?v=UB1O30fR-EE)
-- [HTML Tutorial - How to Make a Super Simple Website(Freecodecamp)](https://www.youtube.com/watch?v=PlxWf493en4)
-
-## CSS Learning Resources
-- [Learn CSS - web.dev](https://web.dev/learn/css/)
-- [Learn CSS - Codecademy](https://www.codecademy.com/learn/learn-css)
-- [CSS Tutorial - W3schools](https://www.w3schools.com/css/)
-- [CSS Tutorial - Zero to Hero (Complete Course)(Freecodecamp)](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
-- [CSS tips and tricks - Kevin Powell](https://www.youtube.com/kepowob)
-- [Introduction to CSS - Web Dev Simplified](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9D0J0Mtp6lIiD_8046k3si)
-- [CSS: Cascading Style Sheets - Mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [CSS-Tricks](https://css-tricks.com)
-
-## JS Learning Resources
-- [Learn JavaScript - Full Course for Beginners (YouTube - FreeCodeCamp)](https://www.youtube.com/watch?v=PkZNo7MFNFg)
-- [JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour (YouTube - Programming With Mosh)](https://www.youtube.com/watch?v=W6NZfCO5SIk)
-- [JavaScript Programming - Full Course (YouTube - FreeCodeCamp)](https://www.youtube.com/watch?v=jS4aFq5-91M)
-- [JavaScript Tutorial (W3Schools - Documentation)](https://www.w3schools.com/js/)
-- [Learn JavaScript - (CodeAcademy - Course)](https://join.codecademy.com/learn/introduction-to-javascript/)
-- [Learn JavaScript: Free JS Courses for Beginners (FreeCodeCamp - Documentation)](https://www.freecodecamp.org/news/learn-javascript-free-js-courses-for-beginners/)
-
 ## Code Playgrounds
 
 - [CodePen](https://codepen.io/)
@@ -534,7 +502,6 @@ More information about the pack can be found here [Github Student Developer Pack
 - [Gatsby](https://www.gatsbyjs.com/)
 - [Astro](https://astro.build/)
 
-
 ## Top JavaScript Runtime
 
 - [Node.js](https://nodejs.org/en/)
@@ -551,35 +518,31 @@ More information about the pack can be found here [Github Student Developer Pack
 
 ## List Of Projects
 
-|      |      |      |      |
-|------|------|------|------|
-| [3D Portfolio](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/3D-Portfolio) | [3D](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/3D)  |  [Blog Website ](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Blog-Website) | [Bloggers Website ](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Blogger-Website-main/blogers%20%20website) |
-| [Bootstrap Portfolio](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Bootstrap%20Portfolio) | [Calculator](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/calculator) | [Catch Me Card Game](https://github.com/Tanmay-Giram/Web-Development-Guide/tree/adding-Catch-Me-Card-Game/Catch%20Me%20Card%20Edition) | | [Chess](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Chess) | [City Finder](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/City%20Finder) |
-| [3D Portfolio](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/3D-Portfolio) | [3D](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/3D) |  [ ASCII VALUE GENERATOR ](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/ascii-value-generator) |  [Blog Website ](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Blog-Website) | [Bloggers Website ](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Blogger-Website-main/blogers%20%20website) |
-| [Bootstrap Portfolio](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Bootstrap%20Portfolio) | [Calculator](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/calculator) | [Chess](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Chess) | [City Finder](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/City%20Finder) |
-| [Clock Project](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/ClockProject) | [Disney Character Game](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/disney-character-game) | [Drum Kit](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/DRUM-KIT) | [Dice Challenge](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Dice-Challenge) |
-| [E-Commerce](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/E-commerce) | [English Dictionary](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Eng_Dictionary) | [Expense Tracker App](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/ExpenseTrackerApp) | [Google Auth Firebase](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/GoogleAuthFirebase) |
-| [Guess My Number](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/guess%20my%20number) | [Hangman Game](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Hangman%20Game) | [JS Quiz App](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Javascript%20Quiz%20App)| [Love Calculator](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/love-calculator) | [Mario Matching](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/MarioMatching) |
-| [Memory Cards](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/memorycards) | [Meme Generator](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Meme-Generator) | [Mern Blog App](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/mern-blog-app) | [Mouse Hover Animation](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/MouseHoverAnimation) | 
-| [Music Player](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Music-player)| [Morse Code Generator](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/morse-code-generator) | [Myntra Customize](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Myntra%20Customize) | [Netflix UI Clone](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Netflix%20UI%20Clone) | [Notes App](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Notes%20App) |
-[Password Generator](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Password%20Generator) | [Portfolio 1](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/portfolio) | [Portfolio 2](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Portfolio_02) | [QR Code Generator 1](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/QR_Code_Generator_1) |
-| [QR Code Generator](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Qr_Code_Generator) | [Quiz](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Quiz) | [Random Background Generator](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Random-Background-Generator) | [Recipe Finder](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Recipe-Finder) | 
-| [Scannable QR Code Generator](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Scannable%20QR%20CODE%20Generator) | [Stone Paper Scissor Game](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/StonePaperScissor-Game) |[Table Tennis Scorekeeper](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Table%20Tennis%20scorekeeper) | [Task Management App](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/task-management-app) | [Temperature Convertor](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/tempreture-converter) | 
-| [Tic Tac Toe](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/TicTacToe%20Game) | [To Do List](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/to-do-list) | [Typing Progress Bar](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Typing%20Progress%20Bar) | [Weather App](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/WeatherApp) | 
-| [Wix Template](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/WixTemplate) | [URL Shortner](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/url-shortner) | [Aim Training](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Aim-training) | [Flappy Bird Game](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Flappy_Bird_Game)  | [Desktop Notification](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Desktop%20Notification) | [Linear_gradient_background](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Linear_gradient_background) | [Tic Tac Toe Game](https://github.com/DevanshKyada27/Web-Development-Guide/tree/TicTacToe-Game/TicTacToeGame)
-| [Joke Generator](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/JokeGenerator) | [Rock-Paper-Scissor-Game-V2](https://github.com/Shreyasb1015/Web-Development-Guide/tree/new_branch/rock-paper-scissor-game-V2) | [Book Cricket Game](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Book-cricket-game) | [ Voice-Recorder ](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Voice-Recorder)
-
+|                                                                                                                                         |                                                                                                                                |                                                                                                                                        |                                                                                                                                       |
+| --------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| [3D Portfolio](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/3D-Portfolio)                                     | [3D](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/3D)                                                | [Bloggers Website](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Blog-Website)                                | [Bloggers Website](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Blogger-Website-main/blogers%20%20website) |
+| [Bootstrap Portfolio](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Bootstrap%20Portfolio)                     | [Calculator](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/calculator)                                | [Catch Me Card Game](https://github.com/Tanmay-Giram/Web-Development-Guide/tree/adding-Catch-Me-Card-Game/Catch%20Me%20Card%20Edition) |                                                                                                                                       | [Chess](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Chess)                                                 | [City Finder](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/City%20Finder)                             |
+| [3D Portfolio](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/3D-Portfolio)                                     | [3D](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/3D)                                                | [ASCII VALUE GENERATOR](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/ascii-value-generator)                  | [Blog Website](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Blog-Website)                                  | [Bloggers Website ](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Blogger-Website-main/blogers%20%20website) |
+| [Bootstrap Portfolio](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Bootstrap%20Portfolio)                     | [Calculator](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/calculator)                                | [Chess](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Chess)                                                  | [City Finder](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/City%20Finder)                                   |
+| [Clock Project](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/ClockProject)                                    | [Disney Character Game](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/disney-character-game)          | [Drum Kit](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/DRUM-KIT)                                            | [Dice Challenge](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Dice-Challenge)                               |
+| [E-Commerce](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/E-commerce)                                         | [English Dictionary](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Eng_Dictionary)                    | [Expense Tracker App](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/ExpenseTrackerApp)                        | [Google Auth Firebase](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/GoogleAuthFirebase)                     |
+| [Guess My Number](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/guess%20my%20number)                           | [Hangman Game](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Hangman%20Game)                          | [JS Quiz App](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Javascript%20Quiz%20App)                          | [Love Calculator](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/love-calculator)                             | [Mario Matching](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/MarioMatching)                                |
+| [Memory Cards](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/memorycards)                                      | [Meme Generator](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Meme-Generator)                        | [Mern Blog App](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/mern-blog-app)                                  | [Mouse Hover Animation](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/MouseHoverAnimation)                   |
+| [Music Player](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Music-player)                                     | [Morse Code Generator](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/morse-code-generator)            | [Myntra Customize](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Myntra%20Customize)                          | [Netflix UI Clone](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Netflix%20UI%20Clone)                       | [Notes App](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Notes%20App)                                       |
+| [Password Generator](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Password%20Generator)                       | [Portfolio 1](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/portfolio)                                | [Portfolio 2](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Portfolio_02)                                     | [QR Code Generator 1](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/QR_Code_Generator_1)                     |
+| [QR Code Generator](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Qr_Code_Generator)                           | [Quiz](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Quiz)                                            | [Random Background Generator](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Random-Background-Generator)      | [Recipe Finder](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Recipe-Finder)                                 |
+| [Scannable QR Code Generator](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Scannable%20QR%20CODE%20Generator) | [Stone Paper Scissor Game](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/StonePaperScissor-Game)      | [Table Tennis Scorekeeper](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Table%20Tennis%20scorekeeper)        | [Task Management App](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/task-management-app)                     | [Temperature Convertor](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/tempreture-converter)                  |
+| [Tic Tac Toe](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/TicTacToe%20Game)                                  | [To Do List](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/to-do-list)                                | [Typing Progress Bar](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Typing%20Progress%20Bar)                  | [Weather App](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/WeatherApp)                                      |
+| [Wix Template](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/WixTemplate)                                      | [URL Shortner](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/url-shortner)                            | [Aim Training](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Aim-training)                                    | [Flappy Bird Game](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Flappy_Bird_Game)                           | [Desktop Notification](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Desktop%20Notification)                 | [Linear_gradient_background](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Linear_gradient_background) | [Tic Tac Toe Game](https://github.com/DevanshKyada27/Web-Development-Guide/tree/TicTacToe-Game/TicTacToeGame) |
+| [Joke Generator](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/JokeGenerator)                                  | [Rock-Paper-Scissor-Game-V2](https://github.com/Shreyasb1015/Web-Development-Guide/tree/new_branch/rock-paper-scissor-game-V2) | [Book Cricket Game](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Book-cricket-game)                          | [Voice-Recorder](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide/Voice-Recorder)                               |
 
 Please note that the links provided are the GitHub repository URLs for each project.
 
-## Web For Testing and Check The Security Score 
+## Web For Testing and Check The Security Score
 
 - [Security Headers](https://securityheaders.com/)
-- [SSL Labs ](https://www.ssllabs.com/)
+- [SSL Labs](https://www.ssllabs.com/)
 - [HackerTarget](https://hackertarget.com/vulnerability-scanner/)
 - [Qualys SSL Labs](https://www.ssllabs.com/ssltest/)
 
-<p align="center">
-  Copyright © 2023 <b><a href="https://github.com/SERVER-X-101">SERVER-X-101</a></b>. All rights reserved. <br/>
-</p>
-
+<p align="center">Copyright © 2023 <b><a href="https://github.com/SERVER-X-101">SERVER-X-101</a></b>. All rights reserved.</p>
