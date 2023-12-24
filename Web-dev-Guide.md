@@ -1,4 +1,4 @@
-# [Web-Development-Guide](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide)
+#[Web-Development-Guide](https://github.com/SERVER-X-101/SERVER-X-BLOGS/tree/main/Web-Dev-Guide)
 
 A collection of Web Developement Resources at one place
 
@@ -13,7 +13,7 @@ Please see [**CONTRIBUTING**](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blo
 - [Web-Development-Guide](#web-development-guide)
   - [Contributing](#contributing)
   - [Table of Contents](#table-of-contents)
-  - [Web Development Roadmaps](#web-development-roadmaps)
+  - [Web Development Roadmaps](## Web Development Roadmaps)
   - [Web design softwares](#web-design-softwares)
   - [Prototyping tools for UI/UX](#prototyping-tools-for-uiux)
   - [Free Hosting](#free-hosting)
