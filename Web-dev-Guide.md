@@ -10,14 +10,14 @@ Please see [**CONTRIBUTING**](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blo
 
 ## Table of Contents
 
-- [Web-Development-Guide](##web-development-guide)
-  - [Contributing](##contributing)
+- [Web-Development-Guide](#web-development-guide)
+  - [Contributing](#contributing)
   - [Table of Contents](#table-of-contents)
   - [Web Development Roadmaps](##Web-Development-Roadmaps)
   - [Web design softwares](#web-design-softwares)
   - [Prototyping tools for UI/UX](#prototyping-tools-for-uiux)
   - [Free Hosting](#free-hosting)
-  - [Websites to learn](#websites-to-learn)
+  - [Websites to learn](#Websites-to-learn)
   - [Websites for code challenges](#websites-for-code-challenges)
   - [Web Images or Photos](#web-images-or-photos)
   - [Web Color Palettes](#web-color-palettes)
