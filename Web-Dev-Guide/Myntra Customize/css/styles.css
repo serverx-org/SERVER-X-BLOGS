@@ -1,0 +1,257 @@
+body{
+    font-family: Montserrat;
+    text-align: center;
+}
+
+.container-fluid{
+    padding: 3% 15% 7%;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Montserrat';
+}
+
+p{
+    font-family: Montserrat-Light;
+    color: #8f8f8f;
+}
+
+/* Headings */
+
+.biggest-heading{
+    font-family: 'Montserrat';
+    font-size: 3.5rem;
+    line-height: 1.5; 
+}
+
+.small-heading{
+    font-family: Montserrat-Light ;
+}
+
+#title{
+    text-align: left;
+    margin-top: 132px;
+}
+
+/* Sections */
+
+.coloured-section{
+    background-color: #E72744;
+    color: #fff;
+}
+
+.white-section{
+    background-color: #fff;
+}
+
+/* Navigation Bar */
+nav {
+    background-color: black !important;
+}
+
+.logo{
+    width: 100px;
+    height: 100px;
+}
+
+.navbar-brand{
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.nav-item{
+    padding: 0 18px;
+}
+
+.nav-item.aboutDropdown {
+    margin-top: 7px;
+}
+
+.nav-link{
+    font-family: inherit;
+    font-size: 1rem;
+    color: white;
+}
+
+.navbar .nav-item .nav-link:hover, .navbar a:hover, .dropdown:hover .dropbtn, button.navbar-toggler{
+    background-color: white;
+    color: black;
+}
+
+.navbar .nav-item .nav-link.active {
+    background-color: #E72744 !important;
+}
+
+/*Dropdown in navigation*/
+.dropdown .dropbtn {
+  font-family: inherit;
+  font-size: 1rem;
+  border: none;
+  outline: none;
+  color: white;
+  background-color: inherit;
+  margin: 0; 
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+
+/* Download Buttons */
+
+.download-button{
+    margin: 5% 3% 5% 0;
+}
+
+/* Title Image */
+
+.title-image{
+    width: 60%;
+    transform: rotate(25deg);
+    position: absolute;
+    right: 30%;
+
+}
+
+.image-div{
+    position: relative;
+}
+
+/* Features */
+
+#features{
+    padding: 7% 15%;
+    position: relative;
+    z-index: 1;
+}
+
+.feature-box{
+    padding: 5%;
+}
+
+.icon {
+    color: #29303E;
+    margin-bottom: 1rem;
+}
+
+.icon:hover{
+    color: #E72744;
+}
+
+/* Testimonials */
+
+#testimonials{
+    background-color: #F05524;
+}
+
+.testimonial-image{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+.carousel-item{
+    padding: 7% 15%;
+}
+/* Press */
+
+#press{
+    background-color: #F05524;
+    padding-bottom: 3%;
+}
+
+.press-logo{
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+/* Pricing Section */
+
+#pricing{
+    padding: 70px;
+}
+
+.pricing-column{
+    padding: 3% 2%;
+}
+
+
+/* Call to Action */
+
+#cta{
+    padding: 7% 15%;
+}
+
+#footer{
+    padding: 7% 15%;
+}
+
+.social-icon{
+    margin: 15px 10px;
+}
+
+@media (max-width: 1000px){
+    .title-image{
+        position: static;
+        transform: rotate(0);
+    }
+}
+
+/* Footer Social Media Button Modification */
+#footer{
+    cursor: pointer;
+}
+
+.fa-twitter:hover{
+    color: #1DA1F2;
+}
+
+.fa-facebook-f:hover{
+
+    color: blue;
+
+}
+
+.fa-instagram:hover{
+    color: #E4405F;
+}
+
+
+/* Apple Button Modification */
+.apple-btn:hover{
+
+    background-color: transparent;
+    color: black;
+
+}
+
+.Cashback-btn:hover{
+
+    background-color: transparent;
+    color: black;
+
+}
+.Cashback-btn{
+    color: white;
+    background-color: black;
+}
