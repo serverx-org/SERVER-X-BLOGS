@@ -9,7 +9,7 @@
 [**Datastrucutres and Algorithms Roadmap**](https://github.com/SERVER-X-101/DSA-BASIC-TO-ADVANCED)
 - [Article](https://github.com/SERVER-X-101/DSA-BASIC-TO-ADVANCED)
 
-[**Datastrucutres and Algorithms Roadmap**](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blob/main/Dynamic-Programming-Resources.md)
+[**Mastering Dynamic Programming**](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blob/main/Dynamic-Programming-Resources.md)
 - [Article: DP Resources](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blob/main/Dynamic-Programming-Resources.md)
 
 ---
