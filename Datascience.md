@@ -8,7 +8,7 @@ In this repository, I am sharing data science projects for beginners who are amb
 ## About Author
 Aman Kharwal is known for his contributions to the data science community. He has created educational content, tutorials, and resources related to data science, machine learning, and programming. Aman often shares his knowledge through platforms like YouTube, blogs, or forums to help aspiring data scientists and enthusiasts.
 
-[Link to the projects](https://thecleverprogrammer.com/2022/03/09/data-science-projects/?fbclid=PAAaZOXwSNptT6C20QHVR-63RzZ8sLapA6327uieXD4DdOsjB8BypR8srJVbM)
+[**Link to the projects**](https://thecleverprogrammer.com/2022/03/09/data-science-projects/?fbclid=PAAaZOXwSNptT6C20QHVR-63RzZ8sLapA6327uieXD4DdOsjB8BypR8srJVbM)
 1. Music Recommendation System using Spotify API
 2. Delhi Metro Network Analysis
 3. Quantitative Analysis of Stock Market
@@ -19,3 +19,11 @@ Aman Kharwal is known for his contributions to the data science community. He ha
 8. App Reviews Sentiment Analysis
 9. Cohort Analysis
 10. Real Estate Price Prediction
+
+<div align="center">
+
+---
+
+*Contributed by <a href="https://github.com/SERVER-X-101">**Lakshmi-charvy**</a> to <a href="https://github.com/SERVER-X-101">**SERVER-X-101**</a>*
+
+</div>
