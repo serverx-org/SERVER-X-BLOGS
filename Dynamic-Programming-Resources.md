@@ -17,3 +17,11 @@ Dynamic programming is a powerful technique in computer science and mathematics 
 - [Medium - Dynamic Programming](https://medium.com/@al.eks/the-ultimate-guide-to-dynamic-programming-65865ef7ec5b): Explore various articles on dynamic programming topics from different authors on Medium.
 ## Conclution
 Remember that dynamic programming can be challenging at first, so it's crucial to practice regularly. Work through a variety of problems to strengthen your understanding and problem-solving skills. Mix theoretical learning with hands-on coding to solidify your grasp of dynamic programming concepts.
+
+<div align="center">
+
+---
+
+*Contributed by <a href="https://github.com/geethsowri">**Lakshmi-charvy**</a> to <a href="https://github.com/SERVER-X-101">**SERVER-X-101**</a>*
+
+</div>
