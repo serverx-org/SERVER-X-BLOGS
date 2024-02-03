@@ -22,6 +22,6 @@ Remember that dynamic programming can be challenging at first, so it's crucial t
 
 ---
 
-*Contributed by <a href="https://github.com/geethsowri">**Lakshmi-charvy**</a> to <a href="https://github.com/SERVER-X-101">**SERVER-X-101**</a>*
+*Contributed by <a href="https://github.com/geethsowri">**Geeth Sowri**</a> to <a href="https://github.com/SERVER-X-101">**SERVER-X-101**</a>*
 
 </div>
