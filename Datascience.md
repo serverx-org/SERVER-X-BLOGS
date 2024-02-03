@@ -24,6 +24,6 @@ Aman Kharwal is known for his contributions to the data science community. He ha
 
 ---
 
-*Contributed by <a href="https://github.com/SERVER-X-101">**Lakshmi-charvy**</a> to <a href="https://github.com/SERVER-X-101">**SERVER-X-101**</a>*
+*Contributed by <a href="https://github.com/Lakshmi-charvy">**Lakshmi-charvy**</a> to <a href="https://github.com/SERVER-X-101">**SERVER-X-101**</a>*
 
 </div>
