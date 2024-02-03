@@ -12,6 +12,9 @@
 [**Mastering Dynamic Programming**](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blob/main/Dynamic-Programming-Resources.md)
 - [Article: DP Resources](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blob/main/Dynamic-Programming-Resources.md)
 
+[**Data Science Projects using Python**](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blob/main/Datascience.md)
+- [Article: DP Resources](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blob/main/Datascience.md)
+
 ---
 
 <p align="center">
