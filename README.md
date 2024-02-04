@@ -3,7 +3,6 @@
 ## Three Js Resources
 - [ ] Read [Three Js Resources](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blob/main/Three-Js-Resources/README.md)
 
-[](./Machine-Learning/Machine-Learning-Introduction.md)
 ## Web Development Guide
 - [ ] Read [Web Development Guide](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blob/main/Web-Dev-Guide/README.md)
 
