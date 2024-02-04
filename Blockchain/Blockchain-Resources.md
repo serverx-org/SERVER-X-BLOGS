@@ -22,3 +22,12 @@ Some resources to help you learn about blockchain in detail :
 - Stack Exchange - [Bitcoin Stack Exchange](https://bitcoin.stackexchange.com/). The Bitcoin Stack Exchange, where users can ask and answer questions related to Bitcoin and blockchain technology.
 # Conclution
 Learning about blockchain is like unlocking a door to a world of decentralized possibilities. The recommended books, courses, and online communities provide accessible pathways for beginners to grasp the fundamentals and join the vibrant blockchain conversation.
+
+
+<div align="center">
+
+---
+
+*Contributed by <a href="https://github.com/geethsowri">**Geeth Sowri**</a> to <a href="https://github.com/SERVER-X-101">**SERVER-X-101**</a>*
+
+</div>
