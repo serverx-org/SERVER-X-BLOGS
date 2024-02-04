@@ -1,15 +1,15 @@
 # SERVER-X-BLOGS
 
 [**Three Js Resources**](./Three-Js-Resources)
-- [Article](./Three-Js-Resources.md)
+- [Article: Resources + Projects](./Three-Js-Resources.md)
 
 [**Web Development Guide**](./Web-Dev-Guide)
-- [Article](./Web-dev-Guide.md)
+- [Article: Resources + Projects](./Web-dev-Guide.md)
 
 [**Datastrucutres and Algorithms Roadmap**](https://github.com/SERVER-X-101/DSA-BASIC-TO-ADVANCED)
-- [Article](https://github.com/SERVER-X-101/DSA-BASIC-TO-ADVANCED)
+- [Article: DSA Rodmap](https://github.com/SERVER-X-101/DSA-BASIC-TO-ADVANCED)
 
-[**Mastering Dynamic Programming**](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blob/main/Dynamic-Programming-Resources.md)
+[**Dynamic Programming**](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blob/main/Dynamic-Programming-Resources.md)
 - [Article: DP Resources](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blob/main/Dynamic-Programming-Resources.md)
 
 [**Data Science Projects using Python**](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blob/main/Datascience.md)
