@@ -1,27 +1,26 @@
-# SERVER-X-BLOGS
+# SERVER-X-BLOGS TO-DOs
 
-[**Three Js Resources**](./Three-Js-Resources)
-- [Article: Resources + Projects](./Three-Js-Resources.md)
+## Three Js Resources
+- [ ] Read [Three Js Resources](./Three-Js-Resources.md)
 
-[**Web Development Guide**](./Web-Dev-Guide)
-- [Article: Resources + Projects](./Web-dev-Guide.md)
+## Web Development Guide
+- [ ] Read [Web Development Guide](./Web-dev-Guide.md)
 
-[**Datastrucutres and Algorithms Roadmap**](https://github.com/SERVER-X-101/DSA-BASIC-TO-ADVANCED)
-- [Article: DSA Rodmap](https://github.com/SERVER-X-101/DSA-BASIC-TO-ADVANCED)
+## Datastructures and Algorithms Roadmap
+- [ ] Explore [DSA Roadmap](https://github.com/SERVER-X-101/DSA-BASIC-TO-ADVANCED)
 
-[**Dynamic Programming**](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blob/main/Dynamic-Programming-Resources.md)
-- [Article: DP Resources](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blob/main/Dynamic-Programming-Resources.md)
+## Dynamic Programming
+- [ ] Read [Dynamic Programming Resources](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blob/main/Dynamic-Programming-Resources.md)
 
-[**Data Science Projects using Python**](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blob/main/Datascience.md)
-- [Article: DP Resources](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blob/main/Datascience.md)
+## Data Science Projects using Python
+- [ ] Explore [Data Science Projects using Python](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blob/main/Datascience.md)
 
-[**Blockchain Basics & Resources**](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blob/main/Blockchain)
-- [Article: Blockchain Basics](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blob/main/Blockchain-basics.md)
-- [Article: Blockchain Resources](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blob/main/Blockchain-resources.md)
+## Blockchain Basics & Resources
+- [ ] Read [Blockchain Basics](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blob/main/Blockchain-basics.md)
+- [ ] Explore [Blockchain Resources](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blob/main/Blockchain-resources.md)
 
-
-
-
+## Machine Learning 101: Beginner to Advanced Guide
+- [ ] Read [Machine Learning Guide](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blob/main/Blockchain-basics.md)
 
 ---
 
