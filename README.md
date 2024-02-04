@@ -16,8 +16,8 @@
 - [ ] Explore [Data Science Projects using Python](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blob/main/Datascience.md)
 
 ## Blockchain Basics & Resources
-- [ ] Read [Blockchain Basics](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blob/main/Blockchain-basics.md)
-- [ ] Explore [Blockchain Resources](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blob/main/Blockchain-resources.md)
+- [ ] Read [Blockchain Basics](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blob/main/Blockchain/Blockchain-Basics.md)
+- [ ] Explore [Blockchain Resources](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blob/main/Blockchain/Blockchain-Resources.md)
 
 ## Machine Learning 101: Beginner to Advanced Guide
 - [ ] Read [Machine Learning Guide](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blob/main/Blockchain-basics.md)
