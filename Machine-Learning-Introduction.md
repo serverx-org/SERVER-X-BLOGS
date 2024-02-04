@@ -77,3 +77,12 @@ At its core, [machine learning](https://en.wikipedia.org/wiki/Machine_learning) 
    - Build your own projects to apply what you've learned.
 # Conclution
 Remember, the key to mastering machine learning is hands-on practice and continuous learning. Start small, experiment, and gradually tackle more complex problems. Good luck on your machine learning journey!
+
+
+<div align="center">
+
+---
+
+*Contributed by <a href="https://github.com/geethsowri">**Geeth Sowri**</a> to <a href="https://github.com/SERVER-X-101">**SERVER-X-101**</a>*
+
+</div>
