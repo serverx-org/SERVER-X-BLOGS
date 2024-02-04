@@ -5,6 +5,7 @@
 
 ## Web Development Guide
 - [ ] Read [Web Development Guide](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blob/main/Web-Dev-Guide/README.md)
+- [ ] Explore [Web Development Resources](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blob/main/Web-Dev-Guide/)
 
 ## Datastructures and Algorithms Roadmap
 - [ ] Explore [DSA Roadmap](https://github.com/SERVER-X-101/DSA-BASIC-TO-ADVANCED)
@@ -13,7 +14,7 @@
 - [ ] Read [Dynamic Programming Resources](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blob/main/Dynamic-Programming/Dynamic-Programming-Resources.md)
 
 ## Data Science Projects using Python
-- [ ] Explore [Data Science Projects using Python](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blob/main/Data-Science/Datascience.md)
+- [ ] Read [Data Science Projects using Python](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blob/main/Data-Science/Datascience.md)
 
 ## Blockchain Basics & Resources
 - [ ] Read [Blockchain Basics](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blob/main/Blockchain/Blockchain-Basics.md)
