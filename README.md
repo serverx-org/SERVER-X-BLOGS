@@ -15,6 +15,14 @@
 [**Data Science Projects using Python**](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blob/main/Datascience.md)
 - [Article: DP Resources](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blob/main/Datascience.md)
 
+[**Blockchain Basics & Resources**](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blob/main/Blockchain)
+- [Article: Blockchain Basics](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blob/main/Blockchain-basics.md)
+- [Article: Blockchain Resources](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blob/main/Blockchain-resources.md)
+
+
+
+
+
 ---
 
 <p align="center">
