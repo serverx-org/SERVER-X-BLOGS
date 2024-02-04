@@ -125,3 +125,12 @@
 ## Conclusion
 
 Whether you're a seasoned developer or just getting started, these resources should provide a solid foundation for learning and mastering Three.js. From core concepts to advanced techniques, exploring the world of 3D graphics has never been more exciting. Happy coding!
+
+
+<div align="center">
+
+---
+
+*Contributed by <a href="https://github.com/gautamankoji">**Gautam Ankoji**</a> to <a href="https://github.com/SERVER-X-101">**SERVER-X-101**</a>*
+
+</div>
