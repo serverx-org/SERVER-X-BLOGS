@@ -34,3 +34,12 @@ Occur when a blockchain diverges into two separate chains due to changes in the 
 # Conclution
 These concepts provide a foundational understanding of blockchain technology. As you delve deeper, you'll encounter more advanced concepts and applications within the blockchain space.
 **Explore detailed learning materials for Blockchain Technology in the "Blockchain-Resources" file located in the repository.**
+
+
+<div align="center">
+
+---
+
+*Contributed by <a href="https://github.com/geethsowri">**Geeth Sowri**</a> to <a href="https://github.com/SERVER-X-101">**SERVER-X-101**</a>*
+
+</div>
