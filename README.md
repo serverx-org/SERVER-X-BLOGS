@@ -8,7 +8,7 @@
 - [ ] Explore [Web Development Resources](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blob/main/Web-Dev-Guide/)
 
 ## Datastructures and Algorithms Roadmap
-- [ ] Explore [DSA Roadmap](https://github.com/SERVER-X-101/DSA-BASIC-TO-ADVANCED)
+- [ ] Explore [DSA Roadmap](https://github.com/SERVER-X-101/DSA-MASTERY)
 
 ## Dynamic Programming
 - [ ] Read [Dynamic Programming Resources](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blob/main/Dynamic-Programming/Dynamic-Programming-Resources.md)
