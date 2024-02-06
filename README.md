@@ -10,7 +10,6 @@
    <a href="https://github.com/SERVER-X-101/SERVER-X-BLOGS"><img height="28px" alt="Site Down" title="site down" target="_blank" src="https://napkin-examples.npkn.net/site-status-badge/400"></a>
 </div>
 
-</br>
 
 ### Three Js Resources
 - [ ] Read [Three Js Resources](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blob/main/Three-Js-Resources/README.md)
