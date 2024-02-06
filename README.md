@@ -1,5 +1,17 @@
 # SERVER-X-BLOGS TO-DOs
 
+<div align="center">
+   <a href="https://github.com/SERVER-X-101/"><img alt="Org Name" title="repo size" target="_blank" src="https://img.shields.io/badge/server_x_101-server_x_blogs-50CCA0?style=for-the-badge"></a></br>
+   <a href="https://github.com/SERVER-X-101/SERVER-X-BLOGS"><img alt="Repo Size" title="repo size" target="_blank" src="https://img.shields.io/github/repo-size/SERVER-X-101/SERVER-X-BLOGS?style=for-the-badge&color=50CCA0&logo=github"></a>
+   <a href="https://github.com/SERVER-X-101/SERVER-X-BLOGS"><img alt="Repo Contributors" title="repo contributors" target="_blank" src="https://img.shields.io/github/contributors/SERVER-X-101/SERVER-X-BLOGS?style=for-the-badge&color=50CCA0&logo=github"></a>
+   <a href="https://github.com/SERVER-X-101/SERVER-X-BLOGS"><img alt="Repo Stars" title="repo stars" target="_blank" src="https://img.shields.io/github/stars/SERVER-X-101/SERVER-X-BLOGS?style=for-the-badge&color=50CCA0&logo=github"></a>
+   <a href="https://github.com/SERVER-X-101/SERVER-X-BLOGS"><img alt="Repo Forks" title="repo forks" target="_blank" src="https://img.shields.io/github/forks/SERVER-X-101/SERVER-X-BLOGS?style=for-the-badge&color=50CCA0&logo=github"></a>
+<!--    <a href="https://github.com/SERVER-X-101/SERVER-X-BLOGS"><img height="28px" alt="Site Up" title="site up" target="_blank" src="https://napkin-examples.npkn.net/site-status-badge/"></a> -->
+   <a href="https://github.com/SERVER-X-101/SERVER-X-BLOGS"><img height="28px" alt="Site Down" title="site down" target="_blank" src="https://napkin-examples.npkn.net/site-status-badge/400"></a>
+</div>
+
+</br>
+
 ### Three Js Resources
 - [ ] Read [Three Js Resources](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blob/main/Three-Js-Resources/README.md)
 
