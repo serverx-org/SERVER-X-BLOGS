@@ -2,7 +2,7 @@
 
 A collection of Web Developement Resources at one place
 
-![Ultimate-Web-Development-Resources by Dhanush N](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blob/main/Web-Dev-Guide/cover.png)
+![Ultimate-Web-Development-Resources by SERVER-X-101](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blob/main/Web-Dev-Guide/cover.png)
 
 ## Contributing
 
