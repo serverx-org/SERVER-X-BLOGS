@@ -1,0 +1,13 @@
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  height: 300px;
+  width: 400px;
+}
+
+#middleSection {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}

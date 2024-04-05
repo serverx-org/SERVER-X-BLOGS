@@ -59,6 +59,7 @@ button:hover{
     min-height: 70vh;
     background-color: white;
     animation: start 1s linear 1;
+    border-radius: 12px;
 }
 @keyframes start{
     0%{

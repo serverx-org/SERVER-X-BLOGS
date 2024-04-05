@@ -1,6 +1,8 @@
+// <!-- Developed By Gautam Ankoji -->
+
 import { BrowserRouter } from "react-router-dom";
 import { Hero, Navbar, StarsCanvas, About, Experience, Works, Feedbacks, Contact } from "./components";
-import './App.css'; // Import your custom styles
+// import './App.css'; // Import your custom styles
 
 const App = () => {
   return (

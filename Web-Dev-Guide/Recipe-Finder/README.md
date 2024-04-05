@@ -1,5 +1,6 @@
 
-# Recipe Finder 
+# Recipe Finder
+
 Created exclusively with `HTML`, `CSS` and `JavaScript`.
 
 ## Screenshot

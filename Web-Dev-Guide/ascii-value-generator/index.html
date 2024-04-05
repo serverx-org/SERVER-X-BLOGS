@@ -1,3 +1,5 @@
+<!-- Developed By Gautam Ankoji -->
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -6,14 +8,35 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ascii Value Generator</title>
+
+    <style>
+        body,
+        html {
+            height: 100%;
+            margin: 0;
+        }
+
+        .centered-section {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100%;
+        }
+    </style>
 </head>
 
 <body>
-    <label for="letterInput">Enter a single letter: </label>
-    <input type="text" id="letterInput">
-    <button onclick="calculateAscii()">Calculate ASCII Value</button>
-    <p id="errorText"></p>
-    <p id="asciiValue"></p>
+    <section class="centered-section">
+        <div>
+            <label for="letterInput">Enter a single letter: </label>
+            <input type="text" id="letterInput">
+        </div>
+        <button onclick="calculateAscii()">Calculate ASCII Value</button>
+        <p id="errorText"></p>
+        <p id="asciiValue"></p>
+    </section>
+
 
     <script>
         function validateAndCalculateAscii() {
